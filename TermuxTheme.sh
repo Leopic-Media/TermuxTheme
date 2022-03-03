@@ -1,16 +1,16 @@
 #!/bin/bash
-#coded by Baje Tech/080HACKERS
-#Created On 10/02/2021 In Nigeria By Baje Tech Kanuri Boy
-#If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To Your
+#coded by Yılmaz Can Sönmez/Leopic 
+#Created On 31/03/2021 In Turkey By Yılmaz Can Sönmez
+#My Life 31/03/21 This Date Summarizes B♥Y
 clear
 echo ""
-echo " [SUBSCRIBE BAJE TECH YOUTUBE CHANNEL FOR MORE]"|lolcat
+echo " [En büyük savaş, Cahilliğe Karşı Yapılan Savaştır.]"|lolcat
 echo "    _____   _____ _   _ _____ __  __ _____"|lolcat
 echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.2"|lolcat
-echo "     [Coded By (Baje Tech)  080HACKERS CEO]"|lolcat
+echo "     [Coded By (Yılmaz Can Sönmez)  LEOPİC ONLYN]"|lolcat
 sleep 1.0
 echo ""
 echo "This Will Change Your Termux Home Theme Color To Look Aweasome"|lolcat
